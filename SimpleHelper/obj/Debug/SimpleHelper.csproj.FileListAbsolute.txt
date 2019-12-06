@@ -1,0 +1,9 @@
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\bin\Debug\SimpleHelper.exe.config
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\bin\Debug\SimpleHelper.exe
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\bin\Debug\SimpleHelper.pdb
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\bin\Debug\KeystrokeAPI.dll
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\obj\Debug\SimpleHelper.csprojAssemblyReference.cache
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\obj\Debug\SimpleHelper.csproj.CoreCompileInputs.cache
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\obj\Debug\SimpleHelper.csproj.CopyComplete
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\obj\Debug\SimpleHelper.exe
+C:\Users\Egoluback\source\repos\SimpleHelper\SimpleHelper\obj\Debug\SimpleHelper.pdb
