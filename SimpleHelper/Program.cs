@@ -30,6 +30,12 @@ namespace SimpleHelper
                         clock.Reset();
                         isAltActive = true;
                         clock.Start();
+                    } else if (isAltActive && character.KeyCode.ToString().ToLower() == "e") {
+                        clock.Stop();
+                        if (clock.ElapsedMilliseconds < 500)
+                        {
+                            System.Environment.Exit(0);
+                        }
                     }
                     Console.WriteLine(character.KeyCode);
                     foreach (var file in filesInfo)
