@@ -1,3 +1,2 @@
 g;chrome.exe;C:\Program Files (x86)
 f;firefox.exe;C:\Program Files
-u;uTorrent.exe;C:\Users\Egoluback\AppData\Roaming\uTorrent
