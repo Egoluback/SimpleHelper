@@ -44,7 +44,7 @@ namespace SimpleHelper
                     foreach (var directory in Directory.GetDirectories(localPath))
                         files.AddRange(GetFile(null, pattern, directory));
                 }
-                catch (Exception e) { }
+                catch (Exception) { }
 
                 return files;
             }
