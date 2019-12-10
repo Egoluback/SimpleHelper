@@ -6,6 +6,8 @@ First of all, you need to open settings.txt file and type your params.
 You should remember that you need to press all keys with Alt.
 Params are used in this format: 
 > key;filename.exe;directory
+
 For example, if I wanna bind *g* key to start Chrome, I'll type
 > g;chrome.exe;C:\Program Files(x86)
+
 To exit the program press Alt + E.
